@@ -83,7 +83,7 @@ Router bit 1/8” (3mm). Using jig on drill press, router a slot between every o
 
       <p className="mt-4 mb-4">
         {`
-        7) Cut links apart
+        6) Cut links apart
 The very BEST saw to use is Megacast curved jewelers saw frame $27.88 from Amazon.com
 It is the ONLY one I will use, after trying many. Also, rather than using coping saw blades, I use a 6” piece cut from a 1/8” bandsaw blade that is sturdier and cuts better.
 
@@ -99,7 +99,7 @@ It is the ONLY one I will use, after trying many. Also, rather than using coping
 
       <p className="mt-4 mb-4">
         {`
-        I made the jig to hold the piece wile cutting.  Cut exactly halfway in each slot.
+        7) I made the jig to hold the piece wile cutting.  Cut exactly halfway in each slot.
         `}
       </p>
       <div className="flex gap-4">
