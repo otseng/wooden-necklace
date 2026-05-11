@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(lynx -dump -stdin)",
+      "Bash(pandoc -f html -t plain)",
+      "Bash(grep -v \"^\\\\s*$\")",
+      "Bash(grep -v ^[])"
+    ]
+  }
+}
