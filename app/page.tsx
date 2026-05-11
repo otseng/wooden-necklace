@@ -8,7 +8,7 @@ export default function Page() {
       </h1>
       <p className="mb-4">
         {`
-        1) Original ¾ x ¾
+        1) Original ¾ x ¾ - 
         This is cut with table saw and planed with thickness planer to exactly
         ¾. I use hardwoods, mostly Cherry, Walnut, and Oak – but have made some
         chains in Teak, Mahogany, Purple Heart, Ebony, Bamboo, and others.
@@ -26,7 +26,7 @@ export default function Page() {
 
        <p className="mt-4 mb-4">
         {`
-        2) Notch
+        2) Notch - 
         It is important to cut very exactly (dimensions 7mm horizontal, 5mm
         vertical, 7mm horizontal )
         This jig set up to and is NEVER moved.
@@ -39,7 +39,7 @@ export default function Page() {
 
       <p className="mt-4 mb-4">
         {`
-        3) Mark
+        3) Mark - 
         Mark every ¾” (19mm)
         `}
       </p>
@@ -53,7 +53,7 @@ export default function Page() {
 
       <p className="mt-4 mb-4">
         {`
-        4) Drill
+        4) Drill - 
 Use a drill press and 1/8 (3mm) drill bit to drill at each mark, then
 flip the piece 90 degrees and drill to match each hole. The bit will
 self-center in the V
@@ -69,7 +69,7 @@ self-center in the V
 
       <p className="mt-4 mb-4">
         {`
-        5) Router
+        5) Router - 
 Router bit 1/8” (3mm). Using jig on drill press, router a slot between every other two sets of holes. Do both sides then rotate the piece 90 degrees and router slots alternate to the first set. I made a jig to with a slot and use a C-clamp to hold it in place on the drill press table.
         `}
       </p>
@@ -83,7 +83,7 @@ Router bit 1/8” (3mm). Using jig on drill press, router a slot between every o
 
       <p className="mt-4 mb-4">
         {`
-        6) Cut links apart
+        6) Cut links apart - 
 The very BEST saw to use is Megacast curved jewelers saw frame $27.88 from Amazon.com
 It is the ONLY one I will use, after trying many. Also, rather than using coping saw blades, I use a 6” piece cut from a 1/8” bandsaw blade that is sturdier and cuts better.
 
@@ -125,7 +125,7 @@ This can be done many ways. The quickest and best for me is to use nippers
 
       <p className="mt-4 mb-4">
         {`
-        9) Rough sand
+        9) Rough sand - 
 Use small disc in drill press with fine grit paper.
 This step just removes the high place – gentle touch, don’t overdo
         `}
@@ -140,7 +140,7 @@ This step just removes the high place – gentle touch, don’t overdo
 
       <p className="mt-4 mb-4">
         {`
-        10) Outside shape (photo of sander mount and process)
+        10) Outside shape (photo of sander mount and process) - 
 Use a 1x30 belt sander (Amazon or Harbor Freight $70 to $100 range), and made a wooden stand to hold the sander to run horizontally.
 <br />
 Mostly just rounding corners – don’t take off much
@@ -162,7 +162,7 @@ Mostly just rounding corners – don’t take off much
 
       <p className="mt-4 mb-4">
         {`
-        11) Inside shape (photo of Dremel and bit plus process)
+        11) Inside shape - 
 One of the Dremel carving bits does a nice job shaping the inside of each link
         `}
       </p>
@@ -181,8 +181,8 @@ One of the Dremel carving bits does a nice job shaping the inside of each link
 
       <p className="mt-4 mb-4">
         {`
-        12) Inside sand
-Sanding drum and sleeve 1/8”
+        12) Inside sand - 
+Sanding drum and sleeve 1/8”. 
 Notice that I use a small ‘Dremel-like’ rotary tool from Harbor Freight (less than $10) and 60 or 80 grit sleeve.
 
         `}
@@ -197,7 +197,7 @@ Notice that I use a small ‘Dremel-like’ rotary tool from Harbor Freight (les
 
       <p className="mt-4 mb-4">
         {`
-        13) Outside finish shape
+        13) Outside finish shape - 
 The little sander is from Harbor Freight and I made a bracket to hold it running horizontally. It is important to keep the link level as it is being shaped. Using 120 grit belts.
 
 
